@@ -12,4 +12,5 @@ coverage.xml
 dist/
 site/
 venv/
+.venv/
 .idea/
